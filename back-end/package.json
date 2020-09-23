@@ -1,0 +1,14 @@
+{
+  "name": "cs571-hw8-news-back-end",
+  "version": "1.0.0",
+  "description": "Node.js based back-end of HW8 news app.",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

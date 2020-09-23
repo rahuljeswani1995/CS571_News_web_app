@@ -1,0 +1,17 @@
+.select-container{
+/* padding: 0; */
+}
+
+#title-div{
+  /* margin: 1% 0; */
+}
+
+.nav-bar{
+  /* padding: 0; */
+  background-image: linear-gradient(to right, #040d5c, #3c5bba);
+}
+
+.toast-body{
+  color: black;
+}
+
